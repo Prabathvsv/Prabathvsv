@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prabathvsv
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning C++ programming language 
+- 🌱 I’m currently learning Python programming language 
 - 💞️ I’m looking to collaborate on Amazon
 - 📫 How to reach me 9542919933 mobile number whatsapp available
 
