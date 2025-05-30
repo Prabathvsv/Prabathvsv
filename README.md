@@ -1,5 +1,21 @@
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prabath+VSV;A+Passionate+Full-Stack+Developer;Building+Tech+with+Love+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/meet-prabhath-vemulakonda" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:prabhathvsv@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Prabathvsv"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prabath+VSV;A+Passionate+Full-Stack+Developer;Building+Tech+with+Love+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /> 
+</p> 
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/meet-prabhath-vemulakonda" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a> 
+  
+  <a href="mailto:prabhathvsv@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a> 
+  
+  <a href="https://github.com/Prabathvsv"> 
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
+  </a> 
+</p>
 
 💡 About Me
 I’m a Full-Stack Developer passionate about building interactive applications and experiences on the web. I enjoy solving problems, learning new technologies, and contributing to open-source projects.
