@@ -41,7 +41,6 @@ I’m a Full-Stack Developer passionate about building interactive applications 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
@@ -67,7 +66,8 @@ I’m a Full-Stack Developer passionate about building interactive applications 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prabathvsv&show_icons=true&theme=radical" alt="Prabath GitHub stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prabathvsv&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Prabathvsv&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabathvsv&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
